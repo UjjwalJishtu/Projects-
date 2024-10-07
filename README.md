@@ -1,2 +1,2 @@
 # Projects-
-learning full stack
+learning full stack developement
